@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB, SPYDER'
+message: Languaje m python
+type: software
+authors:
+  - given-names: Carlos Daniel
+    family-names: Frausto Luna
+    email: carlos.frausto18@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/Luna18-ctrl/Practica1MSFA'
+keywords:
+  - Circuito RLC
+  - Controlador I
+  - Modelo matematico
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-03'
