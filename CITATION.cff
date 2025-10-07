@@ -13,7 +13,7 @@ authors:
 repository-code: 'https://github.com/Luna18-ctrl/Practica1MSFA'
 keywords:
   - Circuito RLC
-  - Controlador I
+  - Controlador PID
   - Sistema Respiratorio 
   - Modelo matematico
   - Simulaciones numericas
