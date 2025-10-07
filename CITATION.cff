@@ -14,6 +14,7 @@ repository-code: 'https://github.com/Luna18-ctrl/Practica1MSFA'
 keywords:
   - Circuito RLC
   - Controlador I
+  - Sistema Respiratorio 
   - Modelo matematico
   - Simulaciones numericas
 license: BSD-2-Clause
