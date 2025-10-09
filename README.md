@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Carlos Daniel Frausto Luna \ [C18210366]; carlos.frausto18@tectijuama.edu.mx
+Carlos Daniel Frausto Luna [C18210366]; carlos.frausto18@tectijuama.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
